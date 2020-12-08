@@ -83,9 +83,9 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-				<p> Thanks to <a href="https://github.com/sindresorhus/">@sindresorhus</a></p>
+				<p>Click to see the source</p>				
 			</div>
+			<p> Thanks to <a href="https://github.com/sindresorhus/">@sindresorhus</a></p>
 		</div>
 	</foreignObject>
 </svg>
